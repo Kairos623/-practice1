@@ -1,0 +1,26 @@
+<html>
+ <head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8"><link href="style.css" rel="stylesheet">
+  <title>практика1</title>
+ </head>
+ <body>
+     <div class="flower1"></div>
+     <div class="flower2"></div>
+     <div class="container">
+         <div class="progressbar">
+             <div class="task1"></div>
+         </div>
+         <div class="text">Начинаем с простенького.<br> Судя по мультфильму,
+         Чебурашка и гена много гуляли и ходили пешком. А вот если бы они устали, то могли бы спокойно воспольщоваться любым другим способом передвижения, кроме одного. <br>Какого?</div>
+
+         <div class="button">
+             <div class="button2">
+                 <div class="image"><img src="img/1.png"></div>
+                 <div class="image"><img src="img/2.png"></div>
+                 <div class="image"><img src="img/3.png"></div>
+                 <div class="image"><img src="img/4.png"></div>
+             </div>
+         </div>
+     </div>
+ </body>
+</html>
